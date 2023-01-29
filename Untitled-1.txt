@@ -1,2 +1,0 @@
-hello world
-<b> hi chitra </b>
